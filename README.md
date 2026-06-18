@@ -1,6 +1,7 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/vaibhavrajput-connect) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.vaibhavrajput.official@gmail.com) [![Leetcode]((https://leetcode.com/profile/account/)) [![Codeforces]((https://codeforces.com/profile/vaibhav-rajput-connect)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/vaibhavrajput-connect) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.vaibhavrajput.official@gmail.com) <a href="https://codeforces.com/profile/https://codeforces.com/profile/vaibhav-rajput-connect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vaibhav-rajput-connect" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/profile/account/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/account/" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:
