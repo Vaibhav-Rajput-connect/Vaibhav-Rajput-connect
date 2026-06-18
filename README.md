@@ -1,11 +1,8 @@
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/in/vaibhavrajput-connect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vaibhavrajput-connect" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/vaibhav-rajput-connect" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vaibhav-rajput-connect" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/profile/account/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/account/" height="30" width="40" /></a>
-</p>
 
 
 # 💻 Tech Stack:
